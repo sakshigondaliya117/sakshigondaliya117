@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Sakshi Gondaliya! 
+### 💻 Computer Engineering Student | ♟️ Chess Creator | 🛡️ Cybersecurity Aspirant
 
-<!--
-**sakshigondaliya117/sakshigondaliya117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my digital workspace! I am a 2nd-year Computer Engineering student passionate about software development, secure systems, and content creation. I love balancing technical logic with strategic chess, public speaking, and music.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me & My Journey
+- 🎓 **Education:** Pursuing B.Tech in Computer Engineering (2nd Year). Aiming to advance into **M.Tech in Cybersecurity**.
+- 🏆 **Strategy & Media:** Chess player and active **Chess Content Creator**. I love analyzing games, teaching strategies, and engaging with the community.
+- 🏛️ **Future Aspirations:** Deeply interested in national governance, administration, and tech-policy. Exploring paths toward **GATE** and **UPSC (IAS/IFS/IPS)**.
+- 🎤 **Public Speaking:** Enthusiastic about communication, public speaking, and community leadership.
+- 🎻 **Creative Side:** When I am not looking at lines of code or chessboards, I spend my time playing the **Violin**.
+
+---
+
+### 🛠️ Tech Stack & Focus Areas
+- 💻 **Languages & Core:** C, C++, Data Structures, Object-Oriented Programming (OOP)
+- 🛡️ **Interests:** Information Security, Cryptography, Network Security, Cyber Law
+- ⚙️ **Tools:** Git, GitHub, Linux
+
+---
+
+### 📈 GitHub Ecosystem
+![Sakshi's GitHub stats](https://vercel.app)
+
+---
+*“Strategizing on the chessboard, securing the digital world, and aiming for public service.”*
