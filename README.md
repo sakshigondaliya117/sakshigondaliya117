@@ -21,8 +21,8 @@ Welcome to my digital workspace! I am a 2nd-year Computer Engineering student pa
 
 ---
 
-### 📈 GitHub Ecosystem
-![Sakshi's GitHub stats](https://vercel.app)
+### 📊 Coding Metrics
+![Sakshi's GitHub Stats](https://vercel.app)
 
 ---
 *“Strategizing on the chessboard, securing the digital world, and aiming for public service.”*
